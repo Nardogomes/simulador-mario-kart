@@ -17,7 +17,7 @@
         <tr>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Mario</p>
-                <img src="./docs/mario.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./docs/mario.gif" alt="Mario Kart" width="60" height="60" style="background-color:#df0606;">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 4</p>
